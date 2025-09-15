@@ -10,3 +10,5 @@ PCB Design
 <img width="1137" height="494" alt="image" src="https://github.com/user-attachments/assets/5bff9eae-c3cd-44b0-ae20-b24394220a1d" />
 # Problem
 Despite flaws in our initial design that prevented us from implementing our systems that year, we successfully gathered comprehensive data using energy meters and power consumption equations. Following the TSAE competition in 2024, we returned to our university to develop an improved design, which led to the creation of the BP16 car.
+# Result
+We achieved 17th place overall out of 24 teams and secured 7th position in the electric vehicle category among 12 competing teams. However, we were unable to participate in the dynamic events due to motor and controller problems that caused our systems to fail during the technical inspection phase.
