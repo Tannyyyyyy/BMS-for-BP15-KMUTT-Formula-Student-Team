@@ -8,3 +8,5 @@ Schmetic Design
 <img width="2340" height="1645" alt="Schematic_BMS_TRAINING_2025-09-15" src="https://github.com/user-attachments/assets/b9790085-096f-48bb-903b-c8d082b557db" />
 PCB Design
 <img width="1137" height="494" alt="image" src="https://github.com/user-attachments/assets/5bff9eae-c3cd-44b0-ae20-b24394220a1d" />
+# Problem
+Despite flaws in our initial design that prevented us from implementing our systems that year, we successfully gathered comprehensive data using energy meters and power consumption equations. Following the TSAE competition in 2024, we returned to our university to develop an improved design, which led to the creation of the BP16 car.
